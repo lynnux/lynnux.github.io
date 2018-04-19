@@ -1,0 +1,14 @@
+
+* 开源工具：
+- [[https://github.com/lynnux/xspy][xspy]] 可用来探测MFC窗口信息，同时也简单地支持探测ATL/WTL窗口。[[https://pan.baidu.com/s/1c0rJAm8][下载链接]]
+- [[https://github.com/lynnux/windbg_hilight][windbg\_hilight]] windbg高亮插件，支持x86和x64。[[https://pan.baidu.com/s/1gd3i8i3][下载链接]]
+
+* 其它工具：
+- [[https://pan.baidu.com/s/1jGgL774][x64dbg\_tol]] x64dbg的插件，让x64dbg内置搜索支持中文字符以及其它功能。[[https://pan.baidu.com/s/1jGgL774][下载链接]]
+
+* 赞助
+** 支付宝
+[[file:alipay.png]]
+
+** 微信
+[[file:weixin.png]]
