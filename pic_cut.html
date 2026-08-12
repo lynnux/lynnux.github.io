@@ -554,20 +554,6 @@
 </div>
 
 <script>
-    (function() {
-        const hostname = window.location.hostname;
-        const allowed = ['uyon.cn', 'www.uyon.cn', 'localhost', '127.0.0.1'];
-        if (!(window.location.protocol === 'file:' || allowed.includes(hostname))) {
-            window.location.href = 'https://uyon.cn/';
-        }
-        document.addEventListener('contextmenu', e => e.preventDefault());
-        document.addEventListener('keydown', e => {
-            if (e.key === 'F12' || (e.ctrlKey && e.shiftKey && e.key === 'I') || (e.ctrlKey && e.key === 'U')) {
-                e.preventDefault();
-            }
-        });
-    })();
-
     (function(){
         const canvas = document.getElementById('coverCanvas');
         const ctx = canvas.getContext('2d');
